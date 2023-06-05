@@ -1,0 +1,70 @@
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\TestWindows.exe
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\TestWindows.pdb
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\TestWindows.xml
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.Form1.resources
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.Resources.resources
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.vbproj.GenerateResource.Cache
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.exe
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.xml
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.pdb
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.vbprojResolveAssemblyReference.cache
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\TestWindows.exe.config
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\Database1.sdf
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\adodb.dll
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\TestWindows.exe.manifest
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\TestWindows.application
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.exe.manifest
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.application
+D:\Users\Jose Jesus C Gerardo\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\bin\Debug\TestWindows.exe.config
+D:\Users\Jose Jesus C Gerardo\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\obj\Debug\TestWindows.exe
+D:\Users\Jose Jesus C Gerardo\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\obj\Debug\TestWindows.xml
+D:\Users\Jose Jesus C Gerardo\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\obj\Debug\TestWindows.pdb
+C:\Users\Jose Jesus C Gerardo\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\bin\Debug\TestWindows.exe.config
+C:\Users\Jose Jesus C Gerardo\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\obj\Debug\TestWindows.exe
+C:\Users\Jose Jesus C Gerardo\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\obj\Debug\TestWindows.xml
+C:\Users\Jose Jesus C Gerardo\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\obj\Debug\TestWindows.pdb
+C:\Users\Jose Jesus C Gerardo\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\bin\Debug\Database1.sdf
+C:\Users\Jose Jesus C Gerardo\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\bin\Debug\TestWindows.exe.manifest
+C:\Users\Jose Jesus C Gerardo\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\bin\Debug\TestWindows.application
+C:\Users\Jose Jesus C Gerardo\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\bin\Debug\TestWindows.exe
+C:\Users\Jose Jesus C Gerardo\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\bin\Debug\TestWindows.pdb
+C:\Users\Jose Jesus C Gerardo\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\bin\Debug\TestWindows.xml
+C:\Users\Jose Jesus C Gerardo\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\bin\Debug\adodb.dll
+C:\Users\Jose Jesus C Gerardo\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\obj\Debug\TestWindows.vbprojResolveAssemblyReference.cache
+C:\Users\Jose Jesus C Gerardo\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\obj\Debug\TestWindows.Form1.resources
+C:\Users\Jose Jesus C Gerardo\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\obj\Debug\TestWindows.Resources.resources
+C:\Users\Jose Jesus C Gerardo\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\obj\Debug\TestWindows.vbproj.GenerateResource.Cache
+C:\Users\Jose Jesus C Gerardo\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\obj\Debug\TestWindows.exe.manifest
+C:\Users\Jose Jesus C Gerardo\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\obj\Debug\TestWindows.application
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\Database1.sdf
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\adodb.dll
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\SHControls.dll
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\SHControls.pdb
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.vbprojAssemblyReference.cache
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.vbproj.GenerateResource.cache
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.vbproj.CoreCompileInputs.cache
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.vbproj.CopyComplete
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\QRCoder.dll
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\QRCoder.pdb
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\CalendarForm.exe.config
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\CalendarForm.exe.manifest
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\CalendarForm.application
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\CalendarForm.exe
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\CalendarForm.pdb
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\CalendarForm.xml
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\CalendarForm.CalendarForm.resources
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\CalendarForm.Dpick.resources
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\CalendarForm.Form1.resources
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\CalendarForm.Form2.resources
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\CalendarForm.Form3.resources
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\CalendarForm.Form4.resources
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\CalendarForm.Resources.resources
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\CalendarForm.POSViewer.resources
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\CalendarForm.ReporteVenta.resources
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\CalendarForm.Schedule.resources
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\CalendarForm.exe.manifest
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\CalendarForm.application
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\CalendarForm.exe
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\CalendarForm.xml
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\CalendarForm.pdb
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\CalendarForm.CalendarDay.resources

@@ -1,0 +1,8 @@
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Release\TestWindows.vbprojAssemblyReference.cache
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Release\TestWindows.Form1.resources
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Release\TestWindows.Resources.resources
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Release\TestWindows.vbproj.GenerateResource.cache
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Release\TestWindows.vbproj.CoreCompileInputs.cache
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Release\TestWindows.exe
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Release\TestWindows.xml
+Z:\Dropbox\Dropbox\System\CS_Papelerias_V3.0\TestWindows\obj\Release\TestWindows.pdb

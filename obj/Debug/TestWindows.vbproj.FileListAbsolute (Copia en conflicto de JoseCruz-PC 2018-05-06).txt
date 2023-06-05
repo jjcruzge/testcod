@@ -1,0 +1,21 @@
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\TestWindows.exe
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\TestWindows.pdb
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\TestWindows.xml
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.Form1.resources
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.Resources.resources
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.vbproj.GenerateResource.Cache
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.exe
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.xml
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.pdb
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.vbprojResolveAssemblyReference.cache
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\TestWindows.exe.config
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\Database1.sdf
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\adodb.dll
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\TestWindows.exe.manifest
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\bin\Debug\TestWindows.application
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.exe.manifest
+C:\Users\Jose Jesus C Gerardo\Desktop\System\CS_Papelerias_V3.0\TestWindows\obj\Debug\TestWindows.application
+C:\Users\Jose Cruz\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\bin\Debug\TestWindows.exe.config
+C:\Users\Jose Cruz\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\obj\Debug\TestWindows.exe
+C:\Users\Jose Cruz\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\obj\Debug\TestWindows.xml
+C:\Users\Jose Cruz\Dropbox\System\CS_Papelerias_V3.0 - FW 2\TestWindows\obj\Debug\TestWindows.pdb
